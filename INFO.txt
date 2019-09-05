@@ -1,0 +1,10 @@
+TO CONNECT AND PUSH
+1) git init
+2) git remote add origin https://github.com/RamMohan222/mini-react-redux.git
+3) git add README.md
+4) git commit -m "message"
+5) git push https://username:password@github.com/RamMohan222/mini-react-redux.git
+
+BEFORE PUSH
+git config user.name her_username
+git config user.email her_email
