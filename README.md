@@ -1,5 +1,5 @@
 ## Mini-React-Redux
---
+
 To connect redux store we need to use `react-redux` package. For small scall to medium scall applications if we don't want to use all features from `react-redux` package. then we can implement our own redux Provide by using context api. The `react-redux` package also internally using the context api. With this Provider implementation we can achive basic functionalities whichever provided by `react-redux`. For new developers it will give basic idea how internally `react-redux` connecting the redux store to our App components.
 
 ```jsx
